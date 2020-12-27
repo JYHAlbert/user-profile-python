@@ -2,6 +2,7 @@ dependencies:
   - python=3
   - pip:
     - os
+    - math
     - numpy
     - scikit-learn
     - matplotlib
