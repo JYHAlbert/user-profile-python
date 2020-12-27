@@ -3,7 +3,9 @@ dependencies:
   - pip:
     - os
     - math
+    - datetime
     - numpy
+    - pandas
     - scikit-learn
     - matplotlib
-    - pandas
+    
